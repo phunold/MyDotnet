@@ -17,6 +17,12 @@ namespace WebApplication
                 .UseIISIntegration()
                 .UseStartup<Startup>()
                 .Build();
+                // Hello there I'm new comment
+                // while (x > 1)
+                // {
+                //      foobar acction
+                // }
+
 
             host.Run();
         }
